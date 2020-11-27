@@ -40,6 +40,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [kernel](https://github.com/googlestadia/kernel) - The Stadia OS kernel.
 - [StadiaPlus](https://github.com/Mafrans/StadiaPlus) - Extends Stadia with additional features, such as custom filters and in game network monitoring.
 - [TouchStadia](https://github.com/ihatecsv/TouchStadia) - Chrome extension which adds on-screen joystick control to Stadia for touchscreen devices.
+- [StadiaIcons](https://github.com/ELowry/StadiaIcons) - A system to easily created individual Stadia game shortcuts using a set of custom—open source—individual Stadia game icons.
 
 ## Resources & Others
 #### Official
